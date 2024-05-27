@@ -1,0 +1,1 @@
+Object recognition in photo captured from webcam
